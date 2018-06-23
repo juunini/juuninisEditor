@@ -2,6 +2,7 @@
 
 코드 하이라이터를 넣고싶어서 직접 만든 개발자용 위지윅 에디터입니다.<br>
 highlight.js를 이용했고, 테이블 추가 기능이나 기타 기능들은 추후에 업데이트 할 예정입니다.<br>
+[여기서 확인해주세요.](https://juunini.github.io/juuninisEditor/index.html)<br>
 
 ## 사용법
 
