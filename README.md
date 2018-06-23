@@ -1,4 +1,4 @@
-#juuninis WYSIWYG Editor
+# juuninis WYSIWYG Editor
 ----------------------------
 
 코드 하이라이터를 넣고싶어서 직접 만든 개발자용 위지윅 에디터입니다.<br>
